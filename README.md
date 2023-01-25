@@ -2,8 +2,7 @@
 <br>
 Projeto feito com os conhecimentos adquiridos no DevClub, em especial as funcionalidades de responsividade!
 <br>
-<a href="https://victorsmenezes.github.io/Easy-Shopping/" target="_blank">Easy Shopping</a> 
-<br>
+Link:https://victorsmenezes.github.io/Easy-Shopping/
 
 ##
 
